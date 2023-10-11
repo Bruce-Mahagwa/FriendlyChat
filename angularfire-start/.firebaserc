@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "friendlychat-77c30"
+  },
+  "targets": {
+    "friendlychat-77c30": {
+      "hosting": {
+        "friendlychat": [
+          "friendlychat-77c30"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
